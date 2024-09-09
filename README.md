@@ -27,13 +27,15 @@ I'm a web developer with experience in:
 - Git,
 - Jira
 
-I love turning ideas into reality and constantly seek to improve my skills and knowledge. When I'm not coding, you might find me playing guitar.
+I love turning ideas into reality and constantly seek to improve my skills and knowledge.
+When I'm not coding, you might find me gardening or playing music. 🎸
 
 ## 🔧 Projects
 
-Here are some of my recent projects:
+**Here are some of my recent projects:**
 
-**[React Image Editor](https://github.com/bergbpb/react-image-editor)**: A web-based image editor built in React and Typescript.
+**[React Image Editor](https://github.com/bergbpb/react-image-editor)**: A web based image editor built in React and Typescript.
+
 Feel free to explore my repositories and check out the code!
 
 # 📬 Get in Touch
