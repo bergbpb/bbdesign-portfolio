@@ -30,7 +30,7 @@ I'm a web developer and designer with experience in:
 - Git
 - Jira
 
-I love turning ideas into reality and constantly seek to improve my skills and knowledge.
+I love turning ideas into reality and constantly seek to improve my skills and knowledge.<br />
 When I'm not coding, you might find me gardening or playing music. 🪴 🎸
 
 ## 🔧 Projects
