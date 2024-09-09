@@ -45,7 +45,7 @@ Feel free to explore my repositories and check out the code!
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me!
 
-**Email**: benberg@benbergdesign.com
-**LinkedIn**: www.linkedin.com/in/benjaminbergdesign
+- **Email**: benberg@benbergdesign.com
+- **LinkedIn**: www.linkedin.com/in/benjaminbergdesign
 
 Thanks for visiting my GitHub profile! 😄
