@@ -1,34 +1,37 @@
-# Welcome to Ben Berg's GitHub Profile!
+# Welcome to Ben Berg's GitHub Profile! 👏
 
-Hi there! I'm Ben, a passionate web developer with a knack for creating dynamic and user-friendly web applications.
-Welcome to my GitHub profile, where you can explore some of my projects, contributions, and learn more about my skills and expertise.
+Hello! I'm Ben, a passionate web developer and designer with a knack for creating dynamic and user-friendly web applications.
+Welcome to my GitHub profile, where you can explore some of my projects and learn more about my skills and expertise.
 
 ## 🚀 About Me
 
-I'm a web developer with experience in:
+I'm a web developer and designer with experience in:
 
 **Front-end Technologies**:
 
-- HTML,
-- CSS,
-- SASS,
-- JavaScript,
-- React,
-- Vue.js,
+- HTML
+- CSS
+- SASS
+- JavaScript
+- React
+- Vue
 - Webpack
 
 **Back-end Technologies**:
 
-- Node.js,
+- Node.js
 - Express
+- MySQL
+- PHP
 
 **Tools & Platforms**:
 
-- Git,
+- Jest
+- Git
 - Jira
 
 I love turning ideas into reality and constantly seek to improve my skills and knowledge.
-When I'm not coding, you might find me gardening or playing music. 🎸
+When I'm not coding, you might find me gardening or playing music. 🪴 🎸
 
 ## 🔧 Projects
 
