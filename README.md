@@ -37,7 +37,7 @@ When I'm not coding, you might find me gardening or playing music. 🪴 🎸
 
 **Here are some of my recent projects:**
 
-**<a href="https://github.com/bergbpb/react-image-editor" target="_blank" >React Image Editor</a>**: A web based image editor built in React and Typescript.
+**[React Image Editor](https://github.com/bergbpb/react-image-editor)**: A web based image editor built in React and Typescript.
 
 Feel free to explore my repositories and check out the code!
 
