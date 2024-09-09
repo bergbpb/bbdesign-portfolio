@@ -1,6 +1,6 @@
 # Welcome to Ben Berg's GitHub Profile! 👏
 
-Hello! I'm Ben, a passionate web developer and designer with a knack for creating dynamic and user-friendly web applications.
+Hello! I'm Ben, a passionate web developer and designer with a knack for creating dynamic and user-friendly web applications. <br />
 Welcome to my GitHub profile, where you can explore some of my projects and learn more about my skills and expertise.
 
 ## 🚀 About Me
