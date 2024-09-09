@@ -6,9 +6,25 @@ Hi there! I'm Ben, a passionate web developer with a knack for creating dynamic 
 
 I'm a web developer with experience in:
 
-**Front-end Technologies**: HTML, CSS, JavaScript, React, Vue.js, Webpack,
-**Back-end Technologies**: Node.js, Express
-**Tools & Platforms**: Git, Jira
+**Front-end Technologies**:
+
+- HTML,
+- CSS,
+- SASS,
+- JavaScript,
+- React,
+- Vue.js,
+- Webpack
+
+**Back-end Technologies**:
+
+- Node.js,
+- Express
+
+**Tools & Platforms**:
+
+- Git,
+- Jira
 
 I love turning ideas into reality and constantly seek to improve my skills and knowledge. When I'm not coding, you might find me playing guitar.
 
