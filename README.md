@@ -1,6 +1,6 @@
 # Welcome to Ben Berg's GitHub Profile! 👏
 
-Hello! I'm Ben, a passionate web developer and designer with a knack for creating dynamic and user-friendly web applications.
+Hello! I'm Ben, a passionate web developer and designer with a knack for creating dynamic and user-friendly web applications. <br />
 Welcome to my GitHub profile, where you can explore some of my projects and learn more about my skills and expertise.
 
 ## 🚀 About Me
@@ -37,7 +37,7 @@ When I'm not coding, you might find me gardening or playing music. 🪴 🎸
 
 **Here are some of my recent projects:**
 
-**[React Image Editor](https://github.com/bergbpb/react-image-editor)**: A web based image editor built in React and Typescript.
+**[React Image Editor](https://github.com/bergbpb/react-image-editor){:target="\_blank"}**: A web based image editor built in React and Typescript.
 
 Feel free to explore my repositories and check out the code!
 
